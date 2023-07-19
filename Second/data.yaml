@@ -1,0 +1,7 @@
+train: ../datasets/Second/train/images
+val: ../datasets/Second/val/images
+
+
+nc: 5
+names: ['yellow_cone', 'blue_cone', 'orange_cone', 'large_orange_cone', 'unknown_cone']
+
