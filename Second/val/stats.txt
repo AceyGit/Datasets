@@ -1,0 +1,11 @@
+
+Number of images: 561
+
+======================
+Objects per class:
+blue_cone -> 5129
+yellow_cone -> 4393
+orange_cone -> 926
+large_orange_cone -> 15
+
+Total number of objects: 10463
